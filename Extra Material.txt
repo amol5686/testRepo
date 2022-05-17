@@ -1,0 +1,42 @@
+
+# C# Coding questions
+
+https://www.techbeamers.com/csharp-coding-interview-questions-developers/
+https://ankitsharmablogs.com/csharp-coding-questions-for-technical-interviews/
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+	C# 5, 6 & 7 New Features: 
+https://dev.to/jai00271/c-features-from-5-0-6-0-and-7-0-2ldn
+
+	C# 8 New Features:
+https://www.c-sharpcorner.com/article/c-sharp-8-features/
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+# Notes on Design Patterns
+
+"Archtectural Style: its theory/principles, ex - 3 tier, REST, SOA. IoC. 
+Archtectural Pattern: its block diagrams, ex - MVC, MVVM, MVP, etc
+Design Patterns: its source/pseudo code, ex - singleton, abstract, factory, DI, etc,  "
+
+"Design Patterns: 
+Structural:- used to solve class(its structure) creation problems - adaptor, composite, proxy, facade, bridge, etc.
+Creational:- used to solve object instantiation/creation problems - singleton, factory, builder, prototype, etc.
+Behavioural:- used to solve object runtime bahavioral problems - mediator, observer, strategy, command, state, iterator, interpreter, etc."
+
+"SOLID Principles: All design patterns are based on these 5 principles, these principals help to create a good software architecture. 
+Single responsibility principle - A class should take one responsibility and there should be one reason to change that class.
+Open close principle - class should be open for extension but closed for modification.
+Liskov substitution principle - Child class should not break parent class’s type definition and behavior.
+Interface segregation principle - any client should not be forced to use an interface which is irrelevant to it.
+Dependency inversion principle - avoid tightly coupling of code which is difficult to maintain when the application is growing bigger and bigger."
+
+Inversion of Control (IOC):- design principal that promotes loosely coupled layers, components, and classes by inverting the control flow of the application
+Dependency Injection (DI):- defined as a design pattern that allows removing hard-coded dependencies from an application.
+“Inversion of control is principal and Dependency Injection is implementation” 
+
+--------------------------------------------------------------------------------------------------------------------------------
+
